@@ -1,2 +1,6 @@
 /dataset*
 /Website/rag-app/node_modules
+/Website/backend/dataset*
+/Website/backend/text_files
+/*zip
+/metadata
